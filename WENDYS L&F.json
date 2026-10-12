@@ -314,6 +314,18 @@
       "url_denied": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-DENIED.json",
       "enable": true
     },
+    {
+      "item": "animation_s1f4",
+      "value": "",
+      "url_report": "",
+      "url_insert": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-insert.json",
+      "url_remove": "",
+      "url_loader": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-APPROVEv2.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-DENIED.json",
+      "enable": true
+    },
         {
       "item": "animation_s1e4_pro",
       "value": "",
@@ -344,37 +356,55 @@
     {
       "item": "sound_s1f4",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-OK.wav",
       "url_init": "",
       "url_remove": "",
-      "url_denied": "",
+      "url_denied": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-DENIED.wav",
       "enable": true
     },
     {
       "item": "sound_s1p2",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-OK.wav",
       "url_init": "",
       "url_remove": "",
-      "url_denied": "",
+      "url_denied": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-DENIED.wav",
       "enable": true
     },
     {
       "item": "sound_e4_pro",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-OK.wav",
       "url_init": "",
       "url_remove": "",
-      "url_denied": "",
+      "url_denied": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-DENIED.wav",
+      "enable": true
+    },
+    {
+      "item": "sound_s2l",
+      "value": "",
+      "url_approve": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-OK.wav",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-DENIED.wav",
+      "enable": true
+    },
+    {
+      "item": "sound_s1f4",
+      "value": "",
+      "url_approve": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-OK.wav",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-DENIED.wav",
       "enable": true
     },
     {
       "item": "sound_s1f4_pro",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-OK.wav",
       "url_init": "",
       "url_remove": "",
-      "url_denied": "",
+      "url_denied": "https://github.com/Ceron0503/WENDYS-L-F/raw/refs/heads/main/WENDYS-SOUND-DENIED.wav",
       "enable": true
     }
   ]
