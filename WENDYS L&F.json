@@ -298,8 +298,8 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
-      "url_denied": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-APPROVEv2.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-DENIED.json",
       "enable": true
     },
     {
@@ -310,8 +310,8 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
-      "url_denied": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-APPROVEv2.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-DENIED.json",
       "enable": true
     },
         {
@@ -322,8 +322,8 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
-      "url_denied": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-APPROVEv2.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-DENIED.json",
       "enable": true
     },
     {
@@ -334,8 +334,8 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
-      "url_denied": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-APPROVEv2.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS-DENIED.json",
       "enable": true
     }
   ],
