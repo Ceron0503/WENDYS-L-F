@@ -298,7 +298,7 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
       "url_denied": "",
       "enable": true
     },
@@ -310,7 +310,7 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
       "url_denied": "",
       "enable": true
     },
@@ -322,7 +322,7 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
       "url_denied": "",
       "enable": true
     },
@@ -334,7 +334,7 @@
       "url_remove": "",
       "url_loader": "",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/wendys-home.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/WENDYS-L-F/refs/heads/main/WENDYS_APPROVE.json",
       "url_denied": "",
       "enable": true
     }
